@@ -95,7 +95,7 @@ WSGI_APPLICATION = 'turnero.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'turnero',
+        'NAME': 'turnero_2',
         'USER': 'postgres',
         'PASSWORD': 'postgres',
         'HOST': '127.0.0.1',
